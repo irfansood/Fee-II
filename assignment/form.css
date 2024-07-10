@@ -1,0 +1,37 @@
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+form{
+    padding: 60px;    
+}
+.form{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline-block;
+}
+.birth{
+    display: block;
+}
+body{
+    background-color: antiquewhite;
+    border: 4px;
+    border-style: dashed;
+}
+#religion{
+    width: 332px;
+}
+#mother{
+    width: 332px;
+}
+#nationality{
+    width: 332px;
+}
+#birth{
+    width: 332px;
+}
+#number{
+    width: 285px;
+}
+#email{
+    width: 332px;
+}
